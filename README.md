@@ -37,5 +37,5 @@ The subset with selected tables can be download from [AdventureWorksDW_subset](h
 
 :white_check_mark: Take a quick look at the data to have an idea what the data is about
 
-:warning: If you use Mac refer to Power-BI-Manual in the repository to make possible using Power BI.
+:warning: If you use Mac refer to [Power-BI-Manual](https://github.com/MKB-Datalab/masterclass-power-bi-2023/blob/main/Docs/Power-BI-Manual.pdf) in the repository to make possible using Power BI.
 
