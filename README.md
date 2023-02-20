@@ -4,7 +4,8 @@
 # Masterclass - Introduction to Power BI
 
 <br/><br/>
-This repository is part of the MKB Datalab  `Data Readiness Program`.  It contains support material used during the Power BI session offered to students participating in this program.
+
+This repository contains support material used during the Power BI session offered to students participating in this program.
 
 During these hands-on session students learn some concepts of Power BI, one of the most popular business intelligence platforms. We will explore topics such as:
 * Power BI Features
