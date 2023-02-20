@@ -5,7 +5,7 @@
 
 <br/><br/>
 
-This repository contains support material used during the Power BI session offered to students participating in this program.
+This repository contains support material used during the Masterclass Introduction to Power BI offered by [JADS MKB datalab](https://www.jadsmkbdatalab.nl/) to [JADS'](https://www.jads.nl/) students.
 
 During these hands-on session students learn some concepts of Power BI, one of the most popular business intelligence platforms. We will explore topics such as:
 * Power BI Features
