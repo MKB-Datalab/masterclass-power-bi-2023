@@ -33,7 +33,7 @@ The subset with selected tables can be download from [AdventureWorksDW_subset](h
 
 :white_check_mark: [Install Power BI](https://aka.ms/pbidesktopstore)
 
-:white_check_mark: Download subset of AdventureWorksDW2019 (available in this repository)
+:white_check_mark: Download subset of AdventureWorksDW2019 ([available in this repository](https://github.com/MKB-Datalab/masterclass-power-bi-2023/tree/main/AdventureWorksDW_subset))
 
 :white_check_mark: Take a quick look at the data to have an idea what the data is about
 
