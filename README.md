@@ -39,3 +39,5 @@ The subset with selected tables can be download from [AdventureWorksDW_subset](h
 
 :warning: If you use Mac refer to [Power-BI-Manual](https://github.com/MKB-Datalab/masterclass-power-bi-2023/blob/main/Docs/Power-BI-Manual.pdf) in the repository to make possible using Power BI.
 
+-------------------------------------
+[:arrow_backward: **Back to repository main page**](https://github.com/MKB-Datalab/mkbdatalab_knowledge_repository_main/tree/master)
