@@ -18,6 +18,19 @@ After completing this workshop, you will be able to further explore and use Powe
 
 Furthermore, during this session we present some real datasets and some challenges that might be encountered when working with real data.
 
+# Material Workshop
+
+In [Docs](https://github.com/MKB-Datalab/masterclass-power-bi-2023/tree/main/Docs) you find the support material including:
+
+* Workshop presentation: [MKB_datalab_PowerBI_2023.pptx]( https://github.com/MKB-Datalab/masterclass-power-bi-2023/blob/main/Docs/MKB_datalab_PowerBI_2023.pptx)
+* Exercises covered during workshop: [Exercises_PowerBI_2023.docx]( https://github.com/MKB-Datalab/masterclass-power-bi-2023/blob/main/Docs/Exercises_PowerBI_2023.docx)
+* Instructions: [How_to_update_location_of_data_sources.pdf]( https://github.com/MKB-Datalab/masterclass-power-bi-2023/blob/main/Docs/How_to_update_location_of_data_sources.pdf) on how to change the location of your data sources so you can verify the solutions presented in [Reports]( https://github.com/MKB-Datalab/masterclass-power-bi-2023/tree/main/Reports).
+* Manual: [Power-BI-Manual.pdf]( https://github.com/MKB-Datalab/masterclass-power-bi-2023/blob/main/Docs/Power-BI-Manual.pdf) to help users of Mac to be able to run Power BI:
+* [Whitepaper]( https://github.com/MKB-Datalab/masterclass-power-bi-2023/blob/main/Docs/whitepaper_visual-analysis-guidebook_0.pdf) from Tableau with Visual Analysis Best Practices
+
+Power BI files with the answer of exercises are found in [Reports]( https://github.com/MKB-Datalab/masterclass-power-bi-2023/tree/main/Reports).
+
+
 # Data
 
 For the hands-on part we work with a subset of the 
